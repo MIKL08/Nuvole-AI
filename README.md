@@ -1,6 +1,6 @@
 #Nuvole-AI
 Powerful, fast, _beautifully designed_ shortcut with Artificial Intelligence for you, **completely free**!
-![Menu]()
+![Menu](https://i.imgur.com/eHV4HNo.jpeg)
 
 +Генерация текста
 ![Text]()
