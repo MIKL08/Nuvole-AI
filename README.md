@@ -1,17 +1,38 @@
 ## Nuvole-AI
 Powerful, fast, _beautifully designed_ shortcut with Artificial Intelligence for you, **completely free**!
+
 ![Menu](https://i.imgur.com/eHV4HNo.jpeg)
 
-+Генерация текста
+Text generation
 ![Text](https://i.imgur.com/KX6VY4Z.jpeg)
-+Генерация изображений
+
+Image generation
 ![Image](https://i.imgur.com/SfgMwVU.jpeg)
-+Что изображено на фото
-+Настройки
+
+Settings
 ![Settings](https://i.imgur.com/5bwOGRd.jpeg)
-+Большое количество доступных языковых моделей
+
+A large number of available language models
 ![Models](https://i.imgur.com/EBsiatI.jpeg)
-+Статистика ваших запросов
+
+Statistics of your requests
 ![Stats](https://i.imgur.com/yuTO3u6.jpeg)
-+Возможность сохранять ответы ИИ в буфер обмена, в PDF и даже PNG!
+
+The ability to save AI answers to the clipboard, PDF and even PNG!
 ![Save](https://i.imgur.com/0SVH6tB.jpeg)
+
+_And so much more!_
+
+-[x] Support for automatic updates
+-[x] Settings and statistics
+-[x] "What is shown in the photo"
+-[x] Beautiful design
+-[x] Image generation
+-[x] Saving the AI response
+
+Planed:
+-[] Summarization
+-[] Reset settings and statistics
+-[] Response generation speed 
+
+Uses Pro AI API
