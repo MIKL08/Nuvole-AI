@@ -18,7 +18,7 @@ Powerful, fast, _beautifully designed_ shortcut with Artificial Intelligence for
 ### Statistics of your requests
 ![Stats](https://i.imgur.com/yuTO3u6.jpeg)
 
-###The ability to save AI answers to the clipboard, PDF and even PNG!
+### The ability to save AI answers to the clipboard, PDF and even PNG!
 ![Save](https://i.imgur.com/0SVH6tB.jpeg)
 
 ### And so much more!
