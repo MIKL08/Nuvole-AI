@@ -1,3 +1,4 @@
 ## Nuvole-AI
 ***
-File to check for updates
+Repo to check for updates
+[Download Nuvole AI and mor info](https://routinehub.co/shortcut/18431/)
