@@ -1,8 +1,3 @@
-• The menu is now fully translated into 42 languages
-• The history of requests has been accelerated, bugs with history display have been fixed
-• Removing the selection of the response display: now the display is always in html in the quick view window
-• Removing the choice of the question task method: the default is the voice
-• Delete settings in the menu. Now you can change the parameters only in the dictionary with settings (3rd action in the shortcut) using True or False
-• Very good optimization
-• Fixed errors in HTML code
-• Corrections in the comments
+Bug fixes:
+• Endless loop of errors fixed.
+• An error was caused when entering the request in text using line breaks has been fixed.
