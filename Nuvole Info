@@ -1,3 +1,6 @@
-Bug fixes:
-• Endless loop of errors fixed.
-• An error was caused when entering the request in text using line breaks has been fixed.
+• Added access to real-time information!
+• Gradient changes
+• Bug fixes with the menu
+• Removal of wikipedia article finder feature due to access to real-time information
+• Otpimization
+• Fixes for small bugs
