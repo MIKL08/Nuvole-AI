@@ -1,1 +1,4 @@
-• Bug fixes with real-time information
+• Updated check for updates
+• Now check for updates uses RoutineHub API
+• Big bug fixes for update checker
+• Improvement of optimisation
